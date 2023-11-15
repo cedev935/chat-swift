@@ -1,8 +1,8 @@
 {
-    "channel_id": "516ae708-535c-11ee-9bca-2ae555a511f8",
+    "channel_id": "8d8345a8-8351-11ee-816f-e28b4e5ebd11",
     "channel_type": "messaging",
-    "cid": "messaging:516ae708-535c-11ee-9bca-2ae555a511f8",
-    "created_at": "2023-09-15T00:10:53.074945363Z",
+    "cid": "messaging:8d8345a8-8351-11ee-816f-e28b4e5ebd11",
+    "created_at": "2023-11-15T00:55:53.436180976Z",
     "type": "typing.start",
     "user": {
         "banned": false,
@@ -12,10 +12,11 @@
         "id": "luke_skywalker",
         "image": "https://vignette.wikia.nocookie.net/starwars/images/2/20/LukeTLJ.jpg",
         "image_url": "https://vignette.wikia.nocookie.net/starwars/images/2/20/LukeTLJ.jpg",
-        "last_active": "2023-09-15T00:10:51.888525869Z",
+        "language": "en",
+        "last_active": "2023-11-15T00:55:51.960602742Z",
         "name": "Luke Skywalker",
         "online": true,
         "role": "user",
-        "updated_at": "2023-09-07T18:02:30.989734Z"
+        "updated_at": "2023-11-14T15:34:20.696818Z"
     }
 }
