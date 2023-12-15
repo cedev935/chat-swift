@@ -1,26 +1,29 @@
 {
-    "channel_id": "516ae708-535c-11ee-9bca-2ae555a511f8",
+    "channel_id": "d152416c-9ae4-11ee-af24-d684dad431de",
     "channel_type": "messaging",
-    "cid": "messaging:516ae708-535c-11ee-9bca-2ae555a511f8",
-    "created_at": "2023-09-15T00:10:53.523760173Z",
+    "cid": "messaging:d152416c-9ae4-11ee-af24-d684dad431de",
+    "created_at": "2023-12-15T00:56:46.359080447Z",
     "member": {
         "banned": false,
         "channel_role": "channel_member",
-        "created_at": "2023-09-15T00:10:53.5127Z",
+        "created_at": "2023-12-15T00:56:46.350239Z",
+        "notifications_muted": false,
         "role": "member",
         "shadow_banned": false,
-        "updated_at": "2023-09-15T00:10:53.5127Z",
+        "status": "member",
+        "updated_at": "2023-12-15T00:56:46.350239Z",
         "user": {
             "banned": false,
             "birthland": "Polis Massa",
             "created_at": "2020-12-07T11:37:33.78879Z",
             "id": "leia_organa",
             "image": "https://vignette.wikia.nocookie.net/starwars/images/f/fc/Leia_Organa_TLJ.png",
-            "last_active": "2023-09-14T20:54:37.742028Z",
+            "language": "en",
+            "last_active": "2023-12-14T22:20:46.128246934Z",
             "name": "Leia Organa",
             "online": false,
             "role": "user",
-            "updated_at": "2023-09-05T21:23:33.662019Z"
+            "updated_at": "2023-11-22T17:26:05.164436Z"
         },
         "user_id": "leia_organa"
     },
@@ -31,10 +34,11 @@
         "created_at": "2020-12-07T11:37:33.78879Z",
         "id": "leia_organa",
         "image": "https://vignette.wikia.nocookie.net/starwars/images/f/fc/Leia_Organa_TLJ.png",
-        "last_active": "2023-09-14T20:54:37.742028Z",
+        "language": "en",
+        "last_active": "2023-12-14T22:20:46.128246934Z",
         "name": "Leia Organa",
         "online": false,
         "role": "user",
-        "updated_at": "2023-09-05T21:23:33.662019Z"
+        "updated_at": "2023-11-22T17:26:05.164436Z"
     }
 }
